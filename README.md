@@ -37,7 +37,6 @@ AI模擬面接サービスのチーム開発では、バックエンドエンジ
 
 * Git / GitHub
 * Notion
-* IntelliJ IDEA
 
 ---
 
